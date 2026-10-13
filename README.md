@@ -1,0 +1,2 @@
+# Entertainment-Facilities-Explorer---Eastern-Province-Overview
+This project is a Python-based Graphical User Interface (GUI) application designed to help users discover entertainment and tourism destinations in the Eastern Province of Saudi Arabia. The application provides an interactive and user-friendly interface that allows users to explore available locations and access relevant information efficiently.
